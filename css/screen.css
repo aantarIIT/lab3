@@ -246,4 +246,17 @@ li {
 input[type="email"] {
   border: none;
   outline: none;
+  background-color: #f5f5f5;
+}
+
+input[type="checkbox"] {
+  border: none;
+  outline: none;
+  background-color: #f5f5f5;
+}
+
+input[type="submit"] {
+  border: none;
+  outline: none;
+  background-color: #f5f5f5;
 }
