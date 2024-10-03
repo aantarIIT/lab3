@@ -242,3 +242,8 @@ li {
   border: none;
   outline: none;
 }
+
+input[type="email"] {
+  border: none;
+  outline: none;
+}
